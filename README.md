@@ -10,29 +10,29 @@ Este repositório contém o projeto final da disciplina de Banco de Dados II, fo
 (6)criarIndexes.sql: Índices criados para melhorar o tempo de execução das consultas.
 
 ## Funcionalidades Principais
-Criação de Views Otimizadas:
+**Criação de Views Otimizadas:**
 As views foram projetadas para agilizar consultas comuns, evitando o acesso desnecessário a múltiplas tabelas.
 
-Triggers:
+**Triggers:**
 Uso de triggers para garantir consistência nos dados e realizar ações automáticas baseadas em eventos de manipulação de dados.
 
-Functions:
+**Functions:**
 Funções que encapsulam a lógica complexa, facilitando a reutilização e manutenção do código.
 
-Indexes:
+**Indexes:**
 Índices foram aplicados para otimizar a busca e recuperação de dados, acelerando queries frequentes.
 
 ## Instruções de Uso
-Criação das Tabelas:
+**Criação das Tabelas:**
 Execute o script criarTabelas.sql para criar a estrutura do banco de dados.
 
-Povoamento das Tabelas:
+**Povoamento das Tabelas:**
 Após a criação das tabelas, utilize o script povoarTabelas.sql para inserir dados de teste.
 
-Criação de Views, Triggers e Functions:
+**Criação de Views, Triggers e Functions:**
 Execute os scripts criarViews.sql, criarTriggers.sql, e criarFunctions.sql para configurar as otimizações.
 
-Criação de Indexes:
+**Criação de Indexes:**
 Por fim, execute o script criarIndexes.sql para adicionar os índices e melhorar o desempenho das queries.
 
 ## Relatório
