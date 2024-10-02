@@ -11,16 +11,16 @@ Este repositório contém o projeto final da disciplina de Banco de Dados II, fo
 
 ## Funcionalidades Principais
 Criação de Views Otimizadas:
-- As views foram projetadas para agilizar consultas comuns, evitando o acesso desnecessário a múltiplas tabelas.
+As views foram projetadas para agilizar consultas comuns, evitando o acesso desnecessário a múltiplas tabelas.
 
 Triggers:
-- Uso de triggers para garantir consistência nos dados e realizar ações automáticas baseadas em eventos de manipulação de dados.
+Uso de triggers para garantir consistência nos dados e realizar ações automáticas baseadas em eventos de manipulação de dados.
 
 Functions:
-- Funções que encapsulam a lógica complexa, facilitando a reutilização e manutenção do código.
+Funções que encapsulam a lógica complexa, facilitando a reutilização e manutenção do código.
 
 Indexes:
-- Índices foram aplicados para otimizar a busca e recuperação de dados, acelerando queries frequentes.
+Índices foram aplicados para otimizar a busca e recuperação de dados, acelerando queries frequentes.
 
 ## Instruções de Uso
 Criação das Tabelas:
