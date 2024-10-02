@@ -2,12 +2,12 @@
 Este repositório contém o projeto final da disciplina de Banco de Dados II, focado em otimização de desempenho em sistemas de banco de dados por meio de views, triggers, functions e indexes.
 
 ## Estrutura do Repositório
-- (1)criarTabelas.sql: Script para a criação das tabelas que fazem parte do sistema.
-- (2)criarTriggers.sql: Criação de triggers que garantem a integridade dos dados e otimizam operações.
-- (3)povoarTabelas.sql: Script para povoamento inicial das tabelas com dados fictícios para testes.
-- (4)criarViews.sql: Definição de views para consultas otimizadas.
-- (5)criarFunctions.sql: Funções personalizadas usadas em conjunto com as triggers e outros mecanismos do banco.
-- (6)criarIndexes.sql: Índices criados para melhorar o tempo de execução das consultas.
+- **(1)criarTabelas.sql:** Script para a criação das tabelas que fazem parte do sistema.
+- **(2)criarTriggers.sql:** Criação de triggers que garantem a integridade dos dados e otimizam operações.
+- **(3)povoarTabelas.sql:** Script para povoamento inicial das tabelas com dados fictícios para testes.
+- **(4)criarViews.sql:** Definição de views para consultas otimizadas.
+- **(5)criarFunctions.sql:** Funções personalizadas usadas em conjunto com as triggers e outros mecanismos do banco.
+- **(6)criarIndexes.sql:** Índices criados para melhorar o tempo de execução das consultas.
 
 ## Funcionalidades Principais
 **Criação de Views Otimizadas:**
